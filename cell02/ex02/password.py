@@ -1,5 +1,5 @@
 Password = (input(""))
 if Password == "python is awesome":
-    print(ASSESS GRANTED)
+    print("ASSESS GRANTED")
 else:
-    print(ACCESS DENIED)
+    print("ACCESS DENIED")

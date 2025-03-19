@@ -1,4 +1,4 @@
-a = int(input(x))
+a = int(input(""))
 b = 0
 if a < b or a > b:
     print("This number is different from zero")

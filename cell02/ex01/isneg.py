@@ -1,4 +1,4 @@
-a = int(input(x))
+a = int(input(""))
 b = 0
 if a > b:
     print("This number is positive")
